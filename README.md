@@ -16,12 +16,11 @@ Give examples
 
 ### Installing
 
-Clone it from git and install npm packages
+Clone it from git
 
 ```
 git clone https://github.com/borisvargas/javascriptTCP.git
 cd javascriptTCP
-npm install
 
 ```
 
